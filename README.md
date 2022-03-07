@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/homesengland/8843c94a-e768-4fb5-bed0-fa7889124c64/f77f7914-1d37-4321-9f1e-2ddb8f7e1ad8/_apis/work/boardbadge/e7dd7742-166f-46de-a982-2782319b4b58)](https://dev.azure.com/homesengland/8843c94a-e768-4fb5-bed0-fa7889124c64/_boards/board/t/f77f7914-1d37-4321-9f1e-2ddb8f7e1ad8/Microsoft.RequirementCategory)
 # example-azdo-integration
