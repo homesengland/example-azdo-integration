@@ -1,3 +1,3 @@
 # example-azdo-integration
 
-Fixes AB#9331
+Fixes AB#9329
