@@ -1,0 +1,20 @@
+trigger:
+- main
+- develop
+
+pr:
+  branches:
+    include:
+    - main
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'build'
+    arguments: "--configuration $(BuildConfiguration)"
+    projects: '$(Build.SourcesDirectory)\\src\\aspdotnet-site\\aspdotnet-site.csproj'
+  displayName: 'dotnet build dataservices'
+
