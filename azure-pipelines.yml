@@ -17,4 +17,3 @@ steps:
   inputs:
     command: 'build'
     projects: '**/*.csproj'
-    ##testing
